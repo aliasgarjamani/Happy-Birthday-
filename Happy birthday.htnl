@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday Narjis</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>🎉 Happy Birthday 🎉</h1>
+    <h2>Narjis Jamani 🤍</h2>
+    <p>May Allah bless you always 🤲</p>
+  </div>
+</body>
+</html>
